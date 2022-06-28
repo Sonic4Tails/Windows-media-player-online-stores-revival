@@ -392,7 +392,7 @@ if(document.cookie.indexOf(gFpc+"=")==-1){document.write("<SCR"+"IPT TYPE='text/
 <li id="MenuItem2" class="ClosedMenu">
       <div class="MenuItemLink">
 
-            <a onclick=" if (!ClickHandler(&#39;\x2fMediaGuide\x2fUS\x2fMusic&#39;)) return false; " id="Link" onfocus="openMenu(&#39;MenuItem2&#39;);" onblur="closeMenu(&#39;MenuItem2&#39;);" onmouseover="openMenu(&#39;MenuItem2&#39;);" onmouseout="closeMenu(&#39;MenuItem2&#39;);" href="https://web.archive.org/web/20100522141257/http://www.windowsmedia.com/MediaGuide/US/Music" title="Music" uid="header1$Menu$MenuItem2$Link">Music</a>
+            <a onclick=" if (!ClickHandler(&#39;\x2fMediaGuide\x2fUS\x2fMusic&#39;)) return false; " id="Link" onfocus="openMenu(&#39;MenuItem2&#39;);" onblur="closeMenu(&#39;MenuItem2&#39;);" onmouseover="openMenu(&#39;MenuItem2&#39;);" onmouseout="closeMenu(&#39;MenuItem2&#39;);" href="http://onlinestores.metaservices.microsoft.com/serviceswitching/guidemusic.aspx" title="Music" uid="header1$Menu$MenuItem2$Link">Music</a>
 
     <span class="MenuDownArrow">↓</span>
         </div>		                    
@@ -774,7 +774,7 @@ if(document.cookie.indexOf(gFpc+"=")==-1){document.write("<SCR"+"IPT TYPE='text/
             <div id="RightPanel">
                 <div id="Ad">
                     
-<div id="AdDiv" uid="Ad1"><img src="https://static.vecteezy.com/packs/media/guide/components/global/search-explore-nav/img/vectors/term-bg-1-666de2d941529c25aa511dc18d727160.jpg" alt="" width="300" height="260" /></div>
+<div id="AdDiv" uid="Ad1"><img src="http://onlinestores.metaservices.microsoft.com/media/guide/tails.png" alt="" width="300" height="260" /></div>
 
                 </div>
             </div>
