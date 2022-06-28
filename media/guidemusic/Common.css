@@ -1,0 +1,24 @@
+body{margin:0 auto;font-family:"Segoe UI",Arial,Verdana,Tahoma,Helvetica,Sans-Serif;font-size:12pt;color:White}#LocaleBlock{position:relative;z-index:1000000;cursor:pointer}#LocaleBlock ul li ul{z-index:1000000}#LetterBoxFeature,#Feature,#RightPanel,#Footer,#Header,#MenuBlock,#LogoBlock,#FooterTextBlock,#DateBlock,#NewsletterBlock,#LocaleBlock,#SearchBlock,.BlockControl,.TopListControl{float:left}#RightJustifyPanel,#HeaderRightPanel,#AdHeader,#FooterLogo{float:right}#LocaleBlock ul li ul{right:0}#MenuBlock ul li ul{left:0}#SearchBlock{height:1.37em;padding-top:.56em;padding-right:.75em;padding-left:.31em}#Header{width:100%;height:4.37em}#AdHeader{width:18.75em;height:1.56em}#AdTitle{text-align:center;font-size:.75em;padding-top:.56em}#LogoBlock{height:2.81em;padding-left:.12em}#HeaderRightPanel{height:2.44em;padding-top:.37em}#Footer{width:100%;height:3.12em}#FooterText{padding-left:.56em;padding-top:.6em;font-size:.75em;line-height:1.5em}#FooterTextBlock{width:40em}#FooterLogo{height:3.06em;text-align:right;width:7.5em;padding-top:.12em}#PageContainer{width:850px;margin:0 auto;text-align:left}#DateBlock,#NewsletterBlock{padding-right:.31em;padding-top:1em;height:.94em;font-size:.75em}.selectedLocale{padding-right:.31em;padding-top:1em;height:.94em;font-size:.75em}#MSLogoImage{margin:.94em .31em auto auto;vertical-align:top;width:6.25em}.MSLogo{cursor:hand;float:right;height:2.12em;width:6.56em;position:relative;margin:.94em .31em auto auto;vertical-align:top;display:none}#ShopTitle{font-size:18pt;margin-top:.19em;float:left}#WMCTitle{margin-top:.19em;float:left;font-family:"Segoe UI",Arial,Verdana,Tahoma,Helvetica,Sans-Serif}#WMCLogoImage{margin-top:.24em}.WMCLogoContainer{margin-right:.25em;float:left;font-family:"Segoe UI",Arial,Verdana,Tahoma,Helvetica,Sans-Serif}a.WMCLogo:link,a.WMCLogo:visited,a.WMCLogo:hover,a.WMCLogo:active{font-size:1.2em;text-decoration:none;float:left;cursor:hand;height:1.5em;margin-top:.5em;margin-left:.75em;padding:0}#DisclosureImage{margin:0 0 0 0;padding:0 0 0 0;vertical-align:top}.DisclosureTri{float:left;cursor:hand;height:.62em;width:.62em;margin-top:1.06em}.floatStyle{float:left}.SearchBoxControl a Img{height:1.38em;vertical-align:top}#MenuBlock{width:33.9em;padding-left:.44em}#Menu{font-size:.81em;padding-top:.12em;color:white}#Ad{width:300px;height:250px}#Karen{width:300px;height:200px}#Feature{width:600px;height:450px}#LetterBoxFeature{width:550px;height:250px}.ErrorMessage{height:200px;text-align:center;padding-top:200px;background:white;color:Black}#Spacer1,#Spacer2{width:300px;height:50px;float:left}#Terms{padding:20px 50px;font-size:10pt;background:white;color:Black}#Terms a:link{color:Blue}#Terms a:visited{color:purple}.LocDivider{margin:.4em .56em 0 .56em;border-top:1px solid #666;height:1px;width:100%}.RadioMenuItem:Hover{text-decoration:underline;cursor:pointer;margin-left:.31em;font-size:.81em}.RadioMenuItem{cursor:pointer;margin-left:.31em;font-size:.81em}.RadioMenuItemSelected{text-decoration:none;cursor:pointer;margin-left:.31em;font-size:.81em;font-weight:bold}#RadioLogo{margin-left:.3em}#RadioLinkText{margin-left:.31em;font-size:.81em;float:left}#LocaleMenuDropDown{height:27.5em;width:12.2em;overflow-y:scroll;overflow-x:hidden}
+/*
+     FILE ARCHIVED ON 14:52:32 Jul 01, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:26:43 Jun 25, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 219.5
+  exclusion.robots: 144.304
+  exclusion.robots.policy: 144.293
+  xauthn.identify: 115.024
+  xauthn.chkprivs: 28.933
+  cdx.remote: 0.117
+  esindex: 0.016
+  LoadShardBlock: 39.887 (3)
+  PetaboxLoader3.datanode: 71.843 (4)
+  CDXLines.iter: 24.931 (3)
+  load_resource: 253.73
+  PetaboxLoader3.resolve: 177.224
+*/
